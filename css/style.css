@@ -1,0 +1,145 @@
+
+.color {
+background-color: black;
+color: white;
+font-family: "Courier New";
+font-weight: 100;
+position: fixed;
+top: -40px;
+left:-4px;
+height: 50px;
+width: 100%;
+border-bottom: solid .5px;
+border-color: white;
+letter-spacing: 5px;
+font-size: 40px;
+z-index: 1;
+
+}
+
+a {
+text-decoration: none;
+color: white;
+}
+
+body {
+background-image: url(https://assets.nerdwallet.com/blog/wp-content/uploads/2015/05/10-steps-to-opening-your-own-hair-salon-story.png);
+height: 130%;
+width:100%;
+background-repeat: no-repeat;
+background-size: cover;
+font-family: : "courier new";
+overflow-y: scroll;
+}
+
+
+ul {
+position: fixed;
+top: 30px;
+left: -40px;
+color: white;
+z-index: 1;
+}
+
+li {
+display:inline-block;
+padding: 10px;
+font-family: sans-serif, "courier new";
+text-transform: uppercase;
+font-size: 10px;
+letter-spacing: 2px;
+}
+
+h1 {
+text-align: center;
+font-size: 50px;
+font-style: italic;
+font-weight: 100;
+letter-spacing: 2px;
+position: relative;
+top: 200px;
+letter-spacing: 5px;
+color:white;
+}
+
+
+.special {
+font-style: normal;
+}
+
+p {
+font-size: 22px;
+text-align: center;
+position: relative;
+top: 170px;
+left:-63px;
+color: white
+}
+
+.button {
+font-size: 12px;
+background-color: goldenrod;
+text-align: center;
+color: white;
+text-decoration: none;
+}
+
+.appt {
+width: 20%;
+padding: 10px 20px; 
+position: relative;
+top: 180px;
+left: 390px;
+}
+      
+
+.bg {
+background-image:url(http://saloncapri.com/wp-content/plugins/time_slider/images/slider_newton_highlands.jpg);
+position: relative;
+top: 625px;
+width: 110%;
+height: 80%;
+left: -10px;
+background-size: cover;
+overflow-y: scroll;
+opacity: .5;
+}
+
+.text {
+    color:black;
+}
+.middle p 
+{
+text-align:center;
+width: 39%;
+font-size: 18px;
+left: 50px;
+font-family: serif;
+top: -15px;
+}
+
+.middle h1 {
+width: 45%;
+font-size: 72px;
+left: 5px; 
+position: relative;
+top: 40px;
+}
+
+h3 {
+font-size: 27px;
+position: relative;
+top: 90px;
+width: 50%;
+text-align: center;
+font-weight: 100;
+left: -20px;
+}
+    
+
+.VTCU {
+padding: 8px 50px;
+margin-right: 50px;
+left: 100px;
+position: relative;   
+}
